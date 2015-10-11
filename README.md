@@ -1,3 +1,7 @@
+This online resume is set up and customized by me, under the guidance of the corresponding Udacity course for Font-End Web Developer. The detailed instructions are shown as below.
+
+
+
 ## How do I complete this project?
 
 1. Go to the [Javascript Basics course](https://www.udacity.com/course/ud804) and select "View Course Materials."
