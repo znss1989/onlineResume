@@ -59,9 +59,11 @@ h3,
 h4,
 h5 {
   padding:10px 5%;
-
 }
 
+li {
+  display: block;
+}
 
 .date-text {
   font-style: italic;
@@ -132,7 +134,8 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  /*background-color: #484848;*/
+  background-image: url("../images/keyboard1920.jpg");
 }
 
 .flex-box {
@@ -157,6 +160,7 @@ ul {
   padding: 10px;
   width: 200px;
   display: none;
+  margin-right: 15px;
 }
 
 img {
@@ -169,6 +173,11 @@ span {
 
 #lets-connect {
   text-align: center;
+}
+
+#topContacts {
+  justify-content: flex-start;
+  text-align: left;
 }
 
 /* Media queries to handle various device widths */
